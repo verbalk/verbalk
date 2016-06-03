@@ -1,12 +1,12 @@
 {
-  "name": "nodenote",
-  "version": "0.0.1",
+  "name": "socket.io-chat",
+  "version": "0.0.0",
+  "description": "A simple chat client using socket.io",
+  "main": "index.js",
+  "author": "Grant Timmerman",
   "private": true,
-  "scripts": {
-    "start": "node app.js"
-  },
+  "license": "BSD",
   "dependencies": {
-    "express": "3.2.6",
-    "ejs": "*"
+    "express": "4.13.4"
   }
 }
